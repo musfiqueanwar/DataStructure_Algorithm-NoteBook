@@ -7,7 +7,7 @@ Masters program algorithm course notebook
 ## O notation ( Big Oh! )
 
 -  ∃  : There exist atleast one value 
-- ∀ : Universal quantifier;  ( far all value)
+- ∀ : Universal quantifier;  ( for all value)
 
 ### **Example : 1** 
     Show that 30n+8 is O(n).
