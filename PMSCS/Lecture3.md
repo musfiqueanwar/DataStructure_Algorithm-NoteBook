@@ -7,7 +7,7 @@ Masters program algorithm course notebook
 ## O notation ( Big Oh! )
 
 -  ∃  : There exist atleast one value 
-- ∀ : Universal quantifier;  ( far all value)
+- ∀ : Universal quantifier;  ( for all value)
 
 ### **Example : 1** 
     Show that 30n+8 is O(n).
@@ -19,7 +19,7 @@ Masters program algorithm course notebook
 
 > 30n+8 >> O(n)  The growth rate of n is same as the equations
 
-- Big 0 example , graphicslly. 
+- Big 0 example , graphically. 
 
 
 
